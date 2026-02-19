@@ -1,0 +1,43 @@
+.
+|____admin
+| |____dashboard.php
+| |____doctors.php
+| |____reports.php
+| |____settings.php
+| |____users.php
+|____api
+| |____appointments.php
+| |____chat.php
+|____assets
+| |____css
+| | |____admin.css
+| | |____doctor.css
+| | |____patient.css
+| |____images
+| |____js
+| | |____script.js
+|____docs
+| |____MEDIMIND.docx
+| |____schema.sql
+| |____structure.php
+| |____structure.txt
+|____doctor
+| |____appointments.php
+| |____chat.php
+| |____dashboard.php
+| |____patients.php
+| |____profile.php
+|____includes
+| |____auth.php
+| |____config.php
+| |____functions.php
+|____index.php
+|____patient
+| |____appointments.php
+| |____chat.php
+| |____dashboard.php
+| |____medical_records.php
+| |____profile.php
+|____uploads
+| |____medical_records
+| | |____6882baf09eecb_Juice Lemon Fruit PNG.jpeg
